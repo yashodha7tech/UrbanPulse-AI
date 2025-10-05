@@ -2,7 +2,7 @@
 UrbanPulse AI is an advanced urban analytics platform that leverages NASA Earth observation data to build climate-resilient, sustainable cities.
 
 ## 🚀 Live Demo
-**👉 [Launch UrbanPulse AI](https://real-testing-wrcy58e2xxrj8ekyzjbbtb.streamlit.app/)**
+**👉 [Launch UrbanPulse AI](https://urbanpulse-ai-jjo9oxzxhp3fs7sk2fdqro.streamlit.app/)**
 
 ## 📖 Overview
 
@@ -156,7 +156,7 @@ shapely==2.0.1
 ## 🎥 Demo & Presentation
 
 ### Live Demo Access
-Visit our live application: [UrbanPulse AI Demo](https://real-testing-wrcy58e2xxrj8ekyzjbbtb.streamlit.app/)
+Visit our live application: [UrbanPulse AI Demo](https://urbanpulse-ai-jjo9oxzxhp3fs7sk2fdqro.streamlit.app/)
 
 ### Key Demo Features to Explore
 1. **City Selection** - Compare different urban centers
